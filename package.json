@@ -1,0 +1,29 @@
+{
+  "name": "programming-typescript",
+  "version": "1.0.0",
+  "description": "A place for exercises while going through the Programming TypeScript book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindyzwan/programming-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindyzwan/programming-typescript/issues"
+  },
+  "homepage": "https://github.com/mindyzwan/programming-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint": "^8.19.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.4"
+  }
+}
